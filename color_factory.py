@@ -1,0 +1,2 @@
+class ColorFactory:
+    pass
